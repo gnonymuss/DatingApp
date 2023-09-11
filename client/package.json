@@ -19,8 +19,10 @@
     "@angular/platform-browser-dynamic": "^16.2.3",
     "@angular/router": "^16.2.3",
     "bootstrap": "^5.3.1",
+    "bootswatch": "^5.3.1",
     "font-awesome": "^4.7.0",
     "ngx-bootstrap": "^11.0.2",
+    "ngx-toastr": "^17.0.2",
     "rxjs": "~7.8.1",
     "tslib": "^2.6.2",
     "zone.js": "~0.13.1"
@@ -36,6 +38,6 @@
     "karma-coverage": "~2.2.1",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
-    "typescript": "~5.2.2"
+    "typescript": "~5.1.6"
   }
 }
