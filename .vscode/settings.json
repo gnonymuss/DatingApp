@@ -1,6 +1,6 @@
 {
     "omnisharp.enableAsyncCompletion": true,
-    "omnisharp.enableImportCompletion": true,
     "omnisharp.organizeImportsOnFormat": true,
-    "msbuildProjectTools.nuget.includePreRelease": true
+    "msbuildProjectTools.nuget.includePreRelease": true,
+    "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": true
 }
